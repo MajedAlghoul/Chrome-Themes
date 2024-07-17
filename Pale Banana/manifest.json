@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+    "name": "Pale Banana",
+    "version": "1.0",
+    "description": "Pale Banana: The Colour Theme",
+    "icons": {
+      "16": "Icons/icon16.png",
+      "48": "Icons/icon48.png",
+      "128": "Icons/icon128.png"
+    },
+    "theme": {
+      "colors" : {
+        "frame": [255, 177, 48],
+        "frame_inactive": [255, 177, 48],
+        "toolbar": [255, 233, 209],
+        "ntp_background" : [255, 233, 209],
+        "bookmark_text": [0,0,0],
+        "tab_background_text": [0,0,0],
+        "tab_background_text_inactive": [0,0,0],
+        "toolbar_button_icon": [0,0,0],
+        "tab_text": [0,0,0]
+      }
+    }
+}
